@@ -1,0 +1,11 @@
+"Examine this image carefully for AI generation artifacts. Analyze these 3 aspects:
+1. EDGES & BOUNDARIES: Look for unnaturally smooth silhouettes, halos at object boundaries, missing fine edge details (hair strands, leaf edges), or overly clean transitions.
+2. TEXTURE & RESOLUTION: Check for painterly/plastic surfaces, uniform sharpness across depths, missing sensor noise, repetitive micro-patterns, or airbrushed look.
+3. MATERIAL & OBJECT DETAILS: Check if materials are physically accurate — does metal reflect properly? Does wood have natural grain? Are small objects (buttons, text, screws) detailed or simplified?
+"Is this image real or AI-generated? Analyze these 3 aspects:
+1. PHYSICAL & COMMON-SENSE LOGIC: Look for impossible physics, floating objects, incorrect reflections, wrong scale relationships, or gravity-defying elements.
+2. TEXT & SYMBOLS: Check all visible text for gibberish, inconsistent fonts, misspelled words, warped characters, or nonsensical signs.
+3. HUMAN & BIOLOGICAL STRUCTURE: Check hands (finger count, joints), faces (symmetry, teeth, ears), eyes (iris shape, gaze), and body proportions.
+"Analyze this image for AI generation signs focusing on:
+1. LIGHTING & SHADOWS: Check for inconsistent light direction, missing shadows, shadows going wrong direction, uniform lighting that ignores 3D geometry, or impossible specular highlights.
+2. PERSPECTIVE & SPATIAL ACCURACY: Look for inconsistent vanishing points, warped geometry, scale inconsistencies between foreground and background, or impossible spatial arrangements.

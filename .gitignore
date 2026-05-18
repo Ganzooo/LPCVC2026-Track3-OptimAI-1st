@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+
+# Editors / OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Outputs
+output/
+wandb/
+logs/
+
+# Training artifacts (only final/ adapter is committed, never optimizer states)
+*.optimizer.pt
+checkpoint-*/optimizer.pt
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment & secrets
+.env
+.env.local
+
+# Test & coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Misc
+*.log
+
+# Large artifacts — hosted externally (HuggingFace / GitHub Release)
+# Keep the directories so reproduction commands have valid targets.
+best_weights/*
+!best_weights/.gitkeep
+dataset/*
+!dataset/.gitkeep
+
+# Local Claude / planning config — internal only, must not be pushed to public
+.claude/settings.local.json
+docs/superpowers/

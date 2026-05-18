@@ -1,0 +1,8 @@
+torch
+transformers
+accelerate
+Pillow
+qwen-vl-utils
+datasets
+peft
+trl
